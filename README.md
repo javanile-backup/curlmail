@@ -1,5 +1,6 @@
 # curlmail
 
+Curlmail è un semplice container docker che eseguito su una macchia remota permettere a chiunche di inviare email usanto una chiamata CURL
 
 ```
 docker run -d \
